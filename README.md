@@ -10,10 +10,10 @@ This is a multithreaded network application, where multiple clients can download
 
 ## Features
 - Authentication is required before interacting with server
- - username and password are available in users.data file
+-- username and password are available in users.data file
 - Get the list of files reside on the server side
- - dir
+-- dir
 - To download the file from server
- - get filename
+-- get filename
 - To quit from client application
- - quit
+-- quit
